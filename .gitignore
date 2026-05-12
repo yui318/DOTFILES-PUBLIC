@@ -1,0 +1,7 @@
+# .gitignore
+elpa/
+auto-save-list/
+backups/
+*~
+\#*\#
+.DS_Store
