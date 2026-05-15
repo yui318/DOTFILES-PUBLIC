@@ -1,0 +1,11 @@
+BasedOnStyle: Google
+IndentWidth: 4
+ColumnLimit: 100
+AllowShortFunctionsOnASingleLine: None
+BreakBeforeBraces: Allman
+
+
+# 行末コメントの開始位置を揃える設定
+AlignTrailingComments:
+  Kind: Always
+  OverEmptyLines: 1
